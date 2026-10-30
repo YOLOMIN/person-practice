@@ -1,2 +1,3 @@
 - 该目录主要是当前os范围的日常代码编写
 - C1 引用计数（retain/release）
+- C2 互斥锁（pthread_mutex）

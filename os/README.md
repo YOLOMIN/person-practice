@@ -3,3 +3,4 @@
 - C2 互斥锁（pthread_mutex）
 - C3 原子操作（__atomic / CAS）
 - D1 系统调用
+- D2 文件 IO 与 fd
